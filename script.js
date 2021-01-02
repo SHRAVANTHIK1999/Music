@@ -34,7 +34,7 @@ var songs = [
     },
 
     {
-        name:"Kaakadada Doniyali",
+        name:"Kaagadada Doniyali",
         singer:"Vasuki Vaibav",
         duration:"03:27",
         url:"Kaagadada Doniyalli.mp3",
